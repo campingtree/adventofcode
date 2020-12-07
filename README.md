@@ -14,8 +14,10 @@ Progress made:
         <th>Day 4</th>
         <th>Day 5</th>
         <th>Day 6</th>
+        <th>Day 7</th>
     </tr>
     <tr>
+        <td>✔️ ✔️</td>
         <td>✔️ ✔️</td>
         <td>✔️ ✔️</td>
         <td>✔️ ✔️</td>

@@ -25,4 +25,12 @@ Progress made:
         <td>✔️ ✔️</td>
         <td>✔️ ✔️</td>
     </tr>
+    <tr>
+        <th>Day 8</th>
+        <th>Day 9</th>
+    </tr>
+    <tr>
+        <td>✔️ ✔️</td>
+        <td>✔️ ✔️</td>
+    </tr>
 </table>

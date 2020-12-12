@@ -28,8 +28,14 @@ Progress made:
     <tr>
         <th>Day 8</th>
         <th>Day 9</th>
+        <th>Day 10</th>
+        <th>Day 11</th>
+        <th>Day 12</th>
     </tr>
     <tr>
+        <td>✔️ ✔️</td>
+        <td>✔️ ✔️</td>
+        <td>✔️ ✔️</td>
         <td>✔️ ✔️</td>
         <td>✔️ ✔️</td>
     </tr>
